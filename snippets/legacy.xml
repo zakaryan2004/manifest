@@ -47,7 +47,7 @@
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="legacy" />
   <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="legacy" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="legacy" />
-  <project path="packages/apps/Terminal" name="packages_apps_Terminal" remote="legacy" />
+  <project path="packages/apps/Terminal" name="packaprojectges_apps_Terminal" remote="legacy" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="legacy" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="legacy" />
   <project path="prebuilts/r8" name="prebuilts_r8" remote="legacy" />
@@ -58,6 +58,8 @@
   <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="legacy" />
   <project path="vendor/qcom/opensource/audio" name="vendor_qcom_opensource_audio" remote="legacy" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="legacy" />
+  <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="legacy" />
+
 
   <!-- LineageOS Repos -->
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-17.0" />
